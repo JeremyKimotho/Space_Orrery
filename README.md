@@ -5,7 +5,7 @@
 This is a virtual orrery of the solar system with the earth, sun, moon and rest of the solar system yet to come. The rotation of the earth about its axis (axial rotation) and the rotation of the planets around the sun (orbital rotation) is able to be paused and resumed.
 ## Setup/Installation Requirements
 * Make sure you have all the cmake pre-reqs
-* Create a build folder wih the command cmake -H -Bbuild.
+* Create a build folder wih the command cmake -H. -Bbuild
 * Enter the build folder
 * Run ./453-skeleton
 ## Technologies Used
